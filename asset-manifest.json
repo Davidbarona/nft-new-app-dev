@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nft-new-app-dev/static/css/main.c352c8af.chunk.css",
+    "main.js": "/nft-new-app-dev/static/js/main.1c83c432.chunk.js",
+    "main.js.map": "/nft-new-app-dev/static/js/main.1c83c432.chunk.js.map",
+    "runtime-main.js": "/nft-new-app-dev/static/js/runtime-main.b8b37f0a.js",
+    "runtime-main.js.map": "/nft-new-app-dev/static/js/runtime-main.b8b37f0a.js.map",
+    "static/js/2.c57e6fae.chunk.js": "/nft-new-app-dev/static/js/2.c57e6fae.chunk.js",
+    "static/js/2.c57e6fae.chunk.js.map": "/nft-new-app-dev/static/js/2.c57e6fae.chunk.js.map",
+    "static/js/3.da0d3664.chunk.js": "/nft-new-app-dev/static/js/3.da0d3664.chunk.js",
+    "static/js/3.da0d3664.chunk.js.map": "/nft-new-app-dev/static/js/3.da0d3664.chunk.js.map",
+    "index.html": "/nft-new-app-dev/index.html",
+    "static/css/main.c352c8af.chunk.css.map": "/nft-new-app-dev/static/css/main.c352c8af.chunk.css.map",
+    "static/js/2.c57e6fae.chunk.js.LICENSE.txt": "/nft-new-app-dev/static/js/2.c57e6fae.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/nft-new-app-dev/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8b37f0a.js",
+    "static/js/2.c57e6fae.chunk.js",
+    "static/css/main.c352c8af.chunk.css",
+    "static/js/main.1c83c432.chunk.js"
+  ]
+}
